@@ -1340,6 +1340,15 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "dionjesus",
+      "hp": "100000",
+      "sprites": {
+        "front": "https://i.pinimg.com/736x/c4/89/31/c48931b47ee88fa0b6ad431c8812a241.jpg",
+        "back": "https://image.shutterstock.com/image-photo/jesus-christ-outdoors-sunset-back-260nw-1943837062.jpg"
+      },
+      "id": 151
     }
   ]
 }
